@@ -131,6 +131,5 @@ db.password=YOUR_PASSWORD
 
 ## Author
 
-Tasneem Tanashat
+Eng. Tasneem Tanashat
 
-Junior QA Engineer
